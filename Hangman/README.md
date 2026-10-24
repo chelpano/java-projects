@@ -1,4 +1,4 @@
-# 🎮 Hangman
+# Hangman
 
 A simple console-based Hangman game written in Java.
 
